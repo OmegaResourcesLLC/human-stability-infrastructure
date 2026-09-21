@@ -54,7 +54,7 @@ Where Human Stability Infrastructure overlaps with existing work, that overlap s
 
 A useful framework should make existing knowledge easier to connect and apply. It does not become more valuable by pretending prior work does not exist.
 
-Version 0.1.1 names several areas of overlap but does not yet provide a source-by-source literature crosswalk. That is unfinished research work and should be treated that way.
+The related research underlying this framework has already been developed in the associated papers, including cited comparisons with recovery capital, integrated care, systems of care, case management, social determinants of health, prevention science, implementation science, network governance, continuity of care, reentry coordination, resilience, and related fields. This repository does not reproduce that full literature review. It is focused on making the framework usable, reviewable, and testable in practice.
 
 ## Research references
 
