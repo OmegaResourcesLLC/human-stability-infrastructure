@@ -15,7 +15,15 @@ This update:
 - clarifies how this work relates to existing fields;
 - makes contribution and feedback routes easier to find;
 - removes the unused placeholder Discussions configuration; and
-- clarifies the split between documentation and future software licensing.
+- clarifies the split between documentation and future software licensing;
+- adds contribution licensing terms;
+- clarifies HSI and CORA as separate project identities;
+- adds a direct private-contact route and conduct consequences;
+- aligns the short overview with v0.1.1 and removes sequence-style arrows;
+- adds participant correction to the shared safeguard baseline;
+- links each foundation definition directly;
+- clarifies that prompts, templates, and worked examples are non-code material; and
+- completes citation metadata.
 
 No scoring system, predictive model, clinical protocol, automated decision process, participant ranking method, eligibility mechanism, sentencing mechanism, or universal intervention sequence was added.
 
