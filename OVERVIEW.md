@@ -8,22 +8,17 @@ Human Stability Infrastructure is an exploratory framework for looking at those 
 
 The framework currently brings together four related research lenses:
 
-```text
-Human Standability
-        ↓
-Organic Stability Intelligence
-        ↓
-Stability Intelligence
-        ↓
-Stability Infrastructure
-```
+Four lenses, for explanation rather than sequence:
 
-This is an explanatory map, not a hierarchy, score, or sequence a person moves through.
+- **Human Standability:** the person and functional continuity under pressure
+- **Organic Stability Intelligence:** the systems and environments around the person
+- **Stability Intelligence:** how meaningful changes can be understood
+- **Stability Infrastructure:** the structures that connect systems
 
 The repository also includes five reasoning roles: Coordinator, Participant Perspective Reviewer, Evidence Reviewer, Safeguard Reviewer, and Implementation Stress Tester. They can be used by people or as structured prompts in AI-assisted workflows, but they are not decision makers and they are not a substitute for professional judgment.
 
-This work is not a validated assessment, predictive model, clinical tool, sentencing tool, eligibility system, or automated decision system. Version 0.1 is being shared so people can test it, challenge it, and show where it breaks in real implementation.
+This work is not a validated assessment, predictive model, clinical tool, sentencing tool, eligibility system, or automated decision system. Version 0.1.1 is being shared so people can test it, challenge it, and show where it breaks in real implementation.
 
-If you only read one practical example, start with `examples/synthetic-worked-example.md`. It shows how the framework can examine a fictional situation without turning the person into a score.
+If you only read one practical example, start with the [synthetic worked example](examples/synthetic-worked-example.md). It shows how the framework can examine a fictional situation without turning the person into a score.
 
 The question I care most about at this stage is straightforward: **Where does this help, and where does it fail?**
