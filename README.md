@@ -41,6 +41,8 @@ These terms are related, but they are not interchangeable and they are not stage
 
 The fuller definitions are in the [foundations folder](foundations/README.md).
 
+In these names, "intelligence" means understanding, not surveillance. Nothing in this framework supports monitoring individuals or collecting more information about people than a stated purpose requires.
+
 These ideas overlap with established work in case management, integrated care, recovery capital, social determinants of health, prevention science, trauma-informed practice, systems of care, reentry, housing stability, behavioral health, workforce development, and other fields. This version names those areas of overlap, but it does not yet provide a source-by-source crosswalk. That is future research work, not something this repository should pretend is already finished.
 
 ## What this repository is
@@ -134,7 +136,7 @@ CC BY 4.0 requires credit and a note of any changes. A suitable form is:
 
 > Based on *Human Stability Infrastructure* (v0.1.1) by Jeff Mendenhall, https://github.com/PhoenX2000/human-stability-infrastructure, licensed under CC BY 4.0. [Describe your changes.]
 
-If you test them in practice, I would also appreciate hearing what helped, what failed, and what had to be changed. That feedback is more useful to this project than simply knowing the materials were used.
+If you test these materials in practice, I would also appreciate hearing what helped, what failed, and what had to be changed. That feedback is more useful to this project than simply knowing the materials were used.
 
 ## Contributing and feedback
 
