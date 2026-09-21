@@ -18,6 +18,12 @@ The same standard applies to everyone: explain what you see, support what you ca
 
 ## Reporting a concern
 
-Concerns about community behavior should be raised where public discussion would unnecessarily expose or escalate the issue. Use GitHub's private reporting option on this repository ("Report content" on the offending comment, issue, or profile), or open a private security advisory from the repository's Security tab if the concern involves a safety or abuse issue. Do not post identifying details about anyone, including the person raising the concern, in a public issue or Discussion.
+Do not post identifying participant information, private case details, or sensitive conduct concerns in a public issue or Discussion.
+
+GitHub's reporting tools are useful for reporting content to GitHub, but they are not a private project inbox. Security advisories are for security vulnerabilities and should not be used as a general conduct channel.
+
+If a concern needs to be handled privately, contact the repository owner through the GitHub profile first and establish a private channel before sharing sensitive details.
+
+If the concern can be discussed safely in public, use the issue form that best fits the problem and keep the report focused on the framework, implementation, or behavior rather than identifiable participant information.
 
 The purpose of this repository is to make difficult questions easier to examine together. The community should behave accordingly.
