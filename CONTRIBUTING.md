@@ -48,9 +48,13 @@ See `safeguards/safeguard-baseline.md` before proposing changes to a role or wor
 
 For a small correction, a pull request is appropriate.
 
-For a conceptual disagreement, implementation problem, or larger proposed change, starting with a Discussion or issue will usually make review easier. Use the issue forms in `.github/ISSUE_TEMPLATE/`.
+For a conceptual disagreement, implementation problem, or larger proposed change, start with an issue using the forms in `.github/ISSUE_TEMPLATE/`.
 
 Please explain the problem before presenting the solution. That helps other contributors evaluate whether the proposed change actually addresses the same problem.
+
+## License of contributions
+
+By submitting a contribution, you confirm that you have the right to share it and agree that it may be distributed under this repository's licenses: CC BY 4.0 for documentation and other non-code material, and Apache License 2.0 for software code. Do not submit material you do not have the right to share.
 
 ## AI-assisted contributions
 
