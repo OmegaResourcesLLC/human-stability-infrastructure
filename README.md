@@ -39,9 +39,9 @@ These terms are related, but they are not interchangeable and they are not stage
 - **Stability Intelligence** asks how meaningful changes in stability can be understood without pretending one number can explain a human life.
 - **Stability Infrastructure** looks at the connective structures that may help fragmented systems coordinate, preserve continuity, and make existing resources genuinely usable.
 
-The fuller definitions are in the foundations folder.
+The fuller definitions are in the [foundations folder](foundations/README.md).
 
-These ideas overlap with established work in case management, integrated care, recovery capital, social determinants of health, prevention science, trauma-informed practice, systems of care, reentry, housing stability, behavioral health, workforce development, and other fields. The goal is not to erase that work or rename it. Where this framework overlaps with something that already explains the problem better, that overlap should be named and learned from.
+These ideas overlap with established work in case management, integrated care, recovery capital, social determinants of health, prevention science, trauma-informed practice, systems of care, reentry, housing stability, behavioral health, workforce development, and other fields. This version names those areas of overlap, but it does not yet provide a source-by-source crosswalk. That is future research work, not something this repository should pretend is already finished.
 
 ## What this repository is
 
@@ -60,6 +60,16 @@ Human Stability Infrastructure is not a validated assessment instrument, diagnos
 The frameworks documented here remain exploratory and require independent research, field testing, criticism, and revision.
 
 CORA may eventually provide one operational environment for some of these ideas, but CORA is not the same thing as Human Stability Infrastructure and should not be treated as proof that the underlying concepts work.
+
+## What gets measured?
+
+At this stage, **there is no Human Stability score**.
+
+The framework can examine observable conditions and changes, such as whether transportation is available, whether a service can actually be reached, whether a handoff failed, whether a waitlist changed, or whether the participant reports that a pressure is getting better or worse.
+
+Those observations may be counted, tracked, or compared when that is useful and appropriate. They should not be collapsed into a hidden score that claims to measure the worth, risk, compliance, or future behavior of a person.
+
+If future versions introduce any formal measures, they should be transparent about what is being measured, open to participant correction, specific to the purpose, and tested before anyone claims they are valid.
 
 ## Status
 
@@ -91,14 +101,14 @@ A useful failure report is more valuable to this project than polite agreement.
 If you are new to the project, begin with:
 
 1. this README;
-2. the synthetic worked example in examples/;
-3. the shared safeguard baseline in safeguards/;
-4. foundations/README.md; and
-5. whichever role in roles/ is most relevant to your work.
+2. the [synthetic worked example](examples/synthetic-worked-example.md);
+3. the [shared safeguard baseline](safeguards/safeguard-baseline.md);
+4. the [foundations overview](foundations/README.md); and
+5. whichever [reasoning role](roles/README.md) is most relevant to your work.
 
 The synthetic example comes early on purpose. The framework is easier to understand once you can see how the different perspectives behave around the same fictional situation.
 
-If you need a shorter plain-language introduction for a meeting, email, or first review, see OVERVIEW.md.
+If you need a shorter plain-language introduction for a meeting, email, or first review, see the [short overview](OVERVIEW.md).
 
 ## A note about lived experience
 
@@ -112,11 +122,11 @@ No contribution becomes correct merely because it came from lived experience, pr
 
 This repository uses different licenses for different kinds of material.
 
-- Written documentation and other non-code materials are licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)** unless a file clearly says otherwise. The full license text is in LICENSE-DOCS.md.
-- Software source code, when code is added and identified as software, is licensed under **Apache License 2.0** unless the file clearly says otherwise. The full license text is in LICENSE-CODE.md.
-- The root LICENSE file explains this split so one license is not mistaken for covering every future file in the repository.
+- Written documentation and other non-code materials are licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)** unless a file clearly says otherwise. The full license text is in [LICENSE-DOCS.md](LICENSE-DOCS.md).
+- Software source code, when code is added and identified as software, is licensed under **Apache License 2.0** unless the file clearly says otherwise. The full license text is in [LICENSE-CODE.md](LICENSE-CODE.md).
+- The root [LICENSE](LICENSE) file explains this split so one license is not mistaken for covering every future file in the repository.
 
-These licenses do not grant rights to project names, logos, branding, or trademarks. See TRADEMARKS.md.
+These licenses do not grant rights to project names, logos, branding, or trademarks. See [TRADEMARKS.md](TRADEMARKS.md).
 
 ## Attribution
 
@@ -134,9 +144,9 @@ For a challenge to a definition, assumption, boundary, or claim, use the **Frame
 
 For a small correction or proposed change, a pull request is welcome.
 
-For privacy, safety, or conduct concerns that should not be public, do not post identifying details in an issue. Use GitHub's private reporting or security tools described in CODE_OF_CONDUCT.md.
+For privacy, safety, or conduct concerns that should not be public, do not post identifying details in an issue or Discussion. Contact the repository owner through the GitHub profile first and establish a private channel before sharing sensitive details. The [Code of Conduct](CODE_OF_CONDUCT.md) explains this more clearly.
 
-Please read CONTRIBUTING.md before submitting changes or field feedback.
+Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting changes or field feedback.
 
 ## Author
 
