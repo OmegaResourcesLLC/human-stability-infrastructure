@@ -4,7 +4,7 @@ Human Stability Infrastructure does not require public disclosure of participant
 
 Public repository materials should use synthetic examples or information that has been appropriately de-identified for the intended use.
 
-Do not place identifying participant data in GitHub issues, Discussions, field reports, examples, pull requests, or other public repository content.
+Do not place identifying participant data in GitHub issues, field reports, examples, pull requests, or other public repository content.
 
 Identifying information includes obvious identifiers such as names, addresses, dates of birth, phone numbers, email addresses, case numbers, medical record numbers, photographs, and government identifiers.
 
