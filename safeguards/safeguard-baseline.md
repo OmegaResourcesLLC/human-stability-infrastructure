@@ -14,7 +14,7 @@ Information should be limited to what is reasonably necessary for the stated pur
 
 Where a setting allows, people described in any use of these materials should be able to see what is recorded about them, correct factual errors, and record their disagreement.
 
-Identifying participant information should not be placed in public repository issues, Discussions, field reports, examples, or contribution materials.
+Identifying participant information should not be placed in public repository issues, field reports, examples, or contribution materials.
 
 AI-generated content should remain reviewable and attributable as AI-assisted when that context is material.
 
