@@ -34,7 +34,7 @@ That includes names, addresses, dates of birth, case numbers, medical record num
 
 Use synthetic or appropriately de-identified examples.
 
-If useful feedback cannot be provided without exposing someone's identity, do not post it publicly.
+If useful feedback cannot be provided without exposing someone's identity, do not post it publicly. Email phoenx2025@gmail.com with only the type of concern, as described in the Code of Conduct.
 
 ## Scope
 
