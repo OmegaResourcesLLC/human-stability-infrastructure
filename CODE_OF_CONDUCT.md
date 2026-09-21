@@ -22,8 +22,14 @@ Do not post identifying participant information, private case details, or sensit
 
 GitHub's reporting tools are useful for reporting content to GitHub, but they are not a private project inbox. Security advisories are for security vulnerabilities and should not be used as a general conduct channel.
 
-If a concern needs to be handled privately, contact the repository owner through the GitHub profile first and establish a private channel before sharing sensitive details.
+If a concern needs to be handled privately, email **phoenx2025@gmail.com**. Do not include identifying participant details or sensitive case information in the first message. Describe the type of concern and wait for a reply about how to share more safely.
+
+If the concern is about the repository owner, report the content to GitHub using its abuse-reporting tools.
 
 If the concern can be discussed safely in public, use the issue form that best fits the problem and keep the report focused on the framework, implementation, or behavior rather than identifiable participant information.
+
+## What may happen
+
+Comments, issues, or contributions that violate this code may be edited, hidden, or removed. Repeated or serious violations may lead to the account being blocked from participating in the repository.
 
 The purpose of this repository is to make difficult questions easier to examine together. The community should behave accordingly.
