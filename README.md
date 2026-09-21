@@ -43,7 +43,7 @@ The fuller definitions are in the [foundations folder](foundations/README.md).
 
 In these names, "intelligence" means understanding, not surveillance. Nothing in this framework supports monitoring individuals or collecting more information about people than a stated purpose requires.
 
-These ideas overlap with established work in case management, integrated care, recovery capital, social determinants of health, prevention science, trauma-informed practice, systems of care, reentry, housing stability, behavioral health, workforce development, and other fields. This version names those areas of overlap, but it does not yet provide a source-by-source crosswalk. That is future research work, not something this repository should pretend is already finished.
+The related research underlying this framework has already been developed in the associated papers, including cited comparisons with recovery capital, integrated care, systems of care, case management, social determinants of health, prevention science, implementation science, network governance, continuity of care, reentry coordination, resilience, and related fields. This repository does not reproduce that full literature review. It is focused on making the framework usable, reviewable, and testable in practice.
 
 ## What this repository is
 
