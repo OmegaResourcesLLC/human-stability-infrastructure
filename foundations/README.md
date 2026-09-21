@@ -15,9 +15,7 @@ In these names, "intelligence" means understanding, not surveillance. Nothing in
 
 ## Relationship to existing work
 
-These ideas sit near established work in case management, integrated care, recovery capital, social determinants of health, prevention science, trauma-informed practice, systems of care, public health, housing stability, reentry, behavioral health, workforce development, and family support.
-
-This version names those areas of overlap but does not yet provide a source-by-source crosswalk or claim that the framework is distinct from every existing model. That comparison still needs to be done carefully.
+The related research underlying this framework has already been developed in the associated papers, including cited comparisons with recovery capital, integrated care, systems of care, case management, social determinants of health, prevention science, implementation science, network governance, continuity of care, reentry coordination, resilience, and related fields. This repository does not reproduce that full literature review. It is focused on making the framework usable, reviewable, and testable in practice.
 
 If an established field or practice already explains part of the problem better, that should be documented and learned from rather than renamed.
 
