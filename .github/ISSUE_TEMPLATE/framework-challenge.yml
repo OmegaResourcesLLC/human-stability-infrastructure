@@ -1,0 +1,56 @@
+name: Framework challenge
+description: Challenge an assumption, definition, boundary, claim, or conceptual relationship in the project.
+title: "[Challenge] "
+labels:
+  - framework-challenge
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This project is expected to change.
+
+        A clear argument that something is wrong, unnecessary, unsupported, or already better explained elsewhere is a valuable contribution.
+
+        Do not include identifying participant information.
+
+  - type: checkboxes
+    id: privacy-confirmation
+    attributes:
+      label: Privacy confirmation
+      options:
+        - label: I confirm this report contains no identifying participant information.
+          required: true
+
+  - type: textarea
+    id: claim
+    attributes:
+      label: What are you challenging?
+      description: Quote or identify the specific idea, file, or assumption.
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is the problem?
+      description: Explain why you believe the current framing fails.
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: What supports your challenge?
+      description: Include research, existing practice, lived experience, operational evidence, or reasoning that helps others evaluate the concern.
+
+  - type: textarea
+    id: alternative
+    attributes:
+      label: Is there a better explanation or approach?
+      description: This is optional. Identifying the problem is useful even if you do not yet have the solution.
+
+  - type: textarea
+    id: consequence
+    attributes:
+      label: What happens if we leave it unchanged?
+      description: Explain the practical or conceptual consequence.

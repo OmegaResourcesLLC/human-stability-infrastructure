@@ -1,0 +1,12 @@
+blank_issues_enabled: false
+# After the repository is created on GitHub, add a contact link here pointing
+# at its Discussions tab, for example:
+#
+# contact_links:
+#   - name: General discussion
+#     url: https://github.com/<owner>/<repo>/discussions
+#     about: Use Discussions for broader questions, ideas, and conversations
+#       that are not yet specific repository issues.
+#
+# GitHub requires an absolute URL here, so this is left out until the real
+# repository address exists rather than filled in with a guess.

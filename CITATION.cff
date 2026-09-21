@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use or adapt Human Stability Infrastructure, please cite this repository and describe any material changes you made."
+title: "Human Stability Infrastructure"
+version: "0.1.0"
+date-released: "2026-09-19"
+authors:
+  - family-names: "Mendenhall"
+    given-names: "Jeff"
+preferred-citation:
+  type: generic
+  title: "Human Stability Infrastructure"
+  authors:
+    - family-names: "Mendenhall"
+      given-names: "Jeff"
+  year: 2026
+  version: "0.1.0"

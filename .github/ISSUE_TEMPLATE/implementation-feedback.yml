@@ -1,0 +1,70 @@
+name: Implementation feedback
+description: Tell us where Human Stability Infrastructure helped, failed, created burden, or conflicted with real implementation.
+title: "[Implementation] "
+labels:
+  - implementation
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thank you for testing the framework closely enough to report what happened.
+
+        Do not include identifying participant information.
+
+  - type: checkboxes
+    id: privacy-confirmation
+    attributes:
+      label: Privacy confirmation
+      options:
+        - label: I confirm this report contains no identifying participant information.
+          required: true
+
+  - type: textarea
+    id: setting
+    attributes:
+      label: Setting
+      description: Describe the type of environment without identifying participants.
+    validations:
+      required: true
+
+  - type: textarea
+    id: material
+    attributes:
+      label: What did you use?
+      description: Identify the file, role, principle, or concept you tested.
+    validations:
+      required: true
+
+  - type: textarea
+    id: outcome
+    attributes:
+      label: What happened?
+      description: Tell us what worked and where the approach became difficult.
+    validations:
+      required: true
+
+  - type: textarea
+    id: break
+    attributes:
+      label: Where does this break in real implementation?
+      description: Be specific. Failure reports are useful.
+    validations:
+      required: true
+
+  - type: textarea
+    id: existing
+    attributes:
+      label: Does an existing practice already solve this?
+      description: If so, tell us what it is and how it compares.
+
+  - type: textarea
+    id: safeguard
+    attributes:
+      label: Safeguard or privacy concerns
+      description: Describe any risk involving privacy, authority, coercion, surveillance, or unintended use.
+
+  - type: textarea
+    id: change
+    attributes:
+      label: What would you change?
+      description: Describe the smallest useful correction.
