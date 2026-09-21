@@ -67,7 +67,7 @@ At this stage, **there is no Human Stability score**.
 
 The framework can examine observable conditions and changes, such as whether transportation is available, whether a service can actually be reached, whether a handoff failed, whether a waitlist changed, or whether the participant reports that a pressure is getting better or worse.
 
-Those observations may be counted, tracked, or compared when that is useful and appropriate. They should not be collapsed into a hidden score that claims to measure the worth, risk, compliance, or future behavior of a person.
+Those observations may be counted or tracked over time when that is useful, and compared to describe conditions and systems, such as wait times across services. They should not be used to rank, sort, or label people, and they should not be collapsed into a hidden score.
 
 If future versions introduce any formal measures, they should be transparent about what is being measured, open to participant correction, specific to the purpose, and tested before anyone claims they are valid.
 
@@ -77,7 +77,7 @@ Version 0.1.1 documents the current conceptual structure and gives reviewers som
 
 The repository currently includes:
 
-- working definitions for Human Standability, Stability Intelligence, Organic Stability Intelligence, and Stability Infrastructure;
+- working definitions for Human Standability, Organic Stability Intelligence, Stability Intelligence, and Stability Infrastructure;
 - six principles intended to keep implementation centered on people rather than systems;
 - five portable reasoning roles that can be used by people or AI-assisted workflows, all governed by the same shared safeguard baseline;
 - one shared safeguard baseline that applies across every role, template, example, and future tool;
@@ -130,7 +130,9 @@ These licenses do not grant rights to project names, logos, branding, or tradema
 
 ## Attribution
 
-If you adapt these materials, please say what you changed and provide appropriate attribution.
+CC BY 4.0 requires credit and a note of any changes. A suitable form is:
+
+> Based on *Human Stability Infrastructure* (v0.1.1) by Jeff Mendenhall, https://github.com/PhoenX2000/human-stability-infrastructure, licensed under CC BY 4.0. [Describe your changes.]
 
 If you test them in practice, I would also appreciate hearing what helped, what failed, and what had to be changed. That feedback is more useful to this project than simply knowing the materials were used.
 
@@ -144,7 +146,7 @@ For a challenge to a definition, assumption, boundary, or claim, use the **Frame
 
 For a small correction or proposed change, a pull request is welcome.
 
-For privacy, safety, or conduct concerns that should not be public, do not post identifying details in an issue or Discussion. Contact the repository owner through the GitHub profile first and establish a private channel before sharing sensitive details. The [Code of Conduct](CODE_OF_CONDUCT.md) explains this more clearly.
+For privacy, safety, or conduct concerns that should not be public, do not post identifying details in an issue. Email **phoenx2025@gmail.com** with only the type of concern and enough information to arrange a safer way to continue. The [Code of Conduct](CODE_OF_CONDUCT.md) explains this more clearly.
 
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) before submitting changes or field feedback.
 
