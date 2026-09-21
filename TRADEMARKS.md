@@ -4,7 +4,7 @@ The open licenses used by this repository apply to copyrightable documentation a
 
 They do not grant permission to use project names, logos, branding, or other marks in a way that suggests sponsorship, certification, endorsement, official partnership, or authorship when none exists.
 
-Names associated with this project's branding include CORA™ and the Human Stability Infrastructure (HSI) name. Nothing here restricts using the underlying concepts and terminology — Human Standability, Stability Intelligence, Organic Stability Intelligence, and Stability Infrastructure — in your own research, writing, or adaptation, provided you follow the attribution guidance in `README.md`.
+Human Stability Infrastructure (HSI) is the project identity used by this repository. CORA™ is a separate project or platform name and is not part of this repository or covered by its open-content licenses. Nothing here restricts using the underlying concepts and terminology, including Human Standability, Stability Intelligence, Organic Stability Intelligence, and Stability Infrastructure, in your own research, writing, or adaptation, provided you follow the attribution requirements described in `README.md`.
 
 Nothing in this file is intended to limit truthful attribution, commentary, criticism, academic reference, or other uses permitted by applicable law.
 
