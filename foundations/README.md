@@ -24,13 +24,12 @@ Stability Infrastructure
 
 **This map is explanatory, not hierarchical.** These are related research lenses, not stages a person moves through, levels of stability, scores, or a validated causal sequence. Each concept can be examined on its own, and the relationships between them remain open to testing and revision.
 
-Human Standability looks most closely at the person and the ability to maintain function under pressure.
+## Definitions
 
-Organic Stability Intelligence expands the lens to the systems and environments surrounding that person, including the ways conditions can interact across organizations, communities, and resources.
-
-Stability Intelligence asks how meaningful changes in stability might be understood without pretending that one score can explain a human life.
-
-Stability Infrastructure asks what connective structures may help fragmented systems work together more effectively and make existing resources genuinely reachable and usable.
+- [Human Standability](human-standability.md) looks most closely at the person and the ability to maintain function under pressure.
+- [Organic Stability Intelligence](organic-stability-intelligence.md) expands the lens to the systems and environments surrounding that person, including the ways conditions can interact across organizations, communities, and resources.
+- [Stability Intelligence](stability-intelligence.md) asks how meaningful changes in stability might be understood without pretending that one score can explain a human life.
+- [Stability Infrastructure](stability-infrastructure.md) asks what connective structures may help fragmented systems work together more effectively and make existing resources genuinely reachable and usable.
 
 ## Relationship to existing work
 
