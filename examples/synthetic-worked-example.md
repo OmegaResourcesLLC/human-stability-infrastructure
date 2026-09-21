@@ -52,7 +52,7 @@ The next step should include Jordan's own explanation of the tradeoffs rather th
 
 ## Evidence Review
 
-```
+```text
 SOURCE: Case narrative provided for this scenario.
 EVIDENCE: Bus schedule change; two documented late arrivals; childcare closing time; phone disconnection; identification document requirement.
 OBSERVATION: Several time-sensitive commitments currently overlap in ways that appear difficult to meet simultaneously.
