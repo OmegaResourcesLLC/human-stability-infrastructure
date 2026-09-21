@@ -7,6 +7,8 @@ Documentation and other non-code material
 
 Unless a file clearly states otherwise, original written documentation and other non-code material in this repository are licensed under the Creative Commons Attribution 4.0 International license (CC BY 4.0).
 
+Role files, templates, and worked examples are text documents and are treated as non-code material, even when used as prompts in software.
+
 The complete license text is in:
 
 LICENSE-DOCS.md
