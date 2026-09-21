@@ -2,13 +2,30 @@
 
 All notable changes to Human Stability Infrastructure will be documented here.
 
-## 0.1.0 — 2026-09-19
+## 0.1.1 - 2026-09-20
+
+Clarity and public-review pass.
+
+This update:
+
+- adds a plain-language definition at the top of the README;
+- defines the four core concepts in one sentence each;
+- adds a direct privacy warning for AI-assisted use;
+- tightens the explanation of resource presence, availability, and usability;
+- clarifies how this work relates to existing fields;
+- makes contribution and feedback routes easier to find;
+- removes the unused placeholder Discussions configuration; and
+- clarifies the split between documentation and future software licensing.
+
+No scoring system, predictive model, clinical protocol, automated decision process, participant ranking method, eligibility mechanism, sentencing mechanism, or universal intervention sequence was added.
+
+## 0.1.0 - 2026-09-19
 
 Initial public-review structure.
 
-Version 0.1 introduces the first repository-level organization of Human Standability, Stability Intelligence, Organic Stability Intelligence, and Stability Infrastructure.
+Version 0.1 introduced the first repository-level organization of Human Standability, Stability Intelligence, Organic Stability Intelligence, and Stability Infrastructure.
 
-The release includes:
+The release included:
 
 - conceptual foundation documents;
 - shared safeguards, referenced by every role;
