@@ -18,7 +18,7 @@ The same standard applies to everyone: explain what you see, support what you ca
 
 ## Reporting a concern
 
-Do not post identifying participant information, private case details, or sensitive conduct concerns in a public issue or Discussion.
+Do not post identifying participant information, private case details, or sensitive conduct concerns in a public issue.
 
 GitHub's reporting tools are useful for reporting content to GitHub, but they are not a private project inbox. Security advisories are for security vulnerabilities and should not be used as a general conduct channel.
 
