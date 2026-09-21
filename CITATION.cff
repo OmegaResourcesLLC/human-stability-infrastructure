@@ -3,6 +3,8 @@ message: "If you use or adapt Human Stability Infrastructure, please cite this r
 title: "Human Stability Infrastructure"
 version: "0.1.1"
 date-released: "2026-09-20"
+license: "CC-BY-4.0"
+repository-code: "https://github.com/PhoenX2000/human-stability-infrastructure"
 authors:
   - family-names: "Mendenhall"
     given-names: "Jeff"
