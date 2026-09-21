@@ -6,9 +6,7 @@ The idea is simple: people rarely experience one problem at a time, and systems 
 
 Human Stability Infrastructure is an exploratory framework for looking at those connections earlier and more clearly. It is meant to help people ask better questions about what is changing, what is connected, where coordination is failing, and whether the support that technically exists can actually be reached and sustained.
 
-The framework currently brings together four related research lenses:
-
-Four lenses, for explanation rather than sequence:
+The framework currently brings together four related research lenses, listed for explanation rather than as a sequence:
 
 - **Human Standability:** the person and functional continuity under pressure
 - **Organic Stability Intelligence:** the systems and environments around the person
