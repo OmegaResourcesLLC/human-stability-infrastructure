@@ -26,12 +26,13 @@ CORA is a separate exploratory architecture that may eventually provide an opera
 
 ## Current evidence status
 
-Version 0.1 should be understood as a research artifact and implementation discussion framework.
+Version 0.1.1 should be understood as a research artifact and implementation discussion framework.
 
 The repository does not currently establish:
 
 - validated causal relationships;
-- validated stability measures;
+- a validated Human Stability score;
+- validated composite stability measures;
 - predictive accuracy;
 - universal thresholds;
 - universal intervention sequences;
@@ -43,6 +44,8 @@ The repository does not currently establish:
 
 Where the repository proposes relationships between conditions, those relationships should be treated as questions to investigate unless supported by external evidence appropriate to the context.
 
+Individual conditions may still be observed or measured when the measure has a clear meaning, such as service availability, wait time, transportation access, completed handoffs, or participant-reported change. Tracking those conditions is not the same as claiming to measure a person's overall stability.
+
 ## Relationship to existing fields
 
 This work does not claim to replace existing research or practice involving case management, integrated care, recovery capital, social determinants of health, prevention science, trauma-informed practice, systems of care, public health, housing stability, reentry, behavioral health, workforce development, family support, or other established fields.
@@ -51,8 +54,10 @@ Where Human Stability Infrastructure overlaps with existing work, that overlap s
 
 A useful framework should make existing knowledge easier to connect and apply. It does not become more valuable by pretending prior work does not exist.
 
+Version 0.1.1 names several areas of overlap but does not yet provide a source-by-source literature crosswalk. That is unfinished research work and should be treated that way.
+
 ## Research references
 
-Formal paper links and publication metadata will be added after each record has been reviewed for accuracy and consistency with the terminology used in this repository.
+Formal paper links, external sources, and publication metadata will be added after each record has been reviewed for accuracy and consistency with the terminology used in this repository.
 
-No publication date or citation has been added from memory. Version 0.1 intentionally avoids unverified bibliographic metadata.
+No publication date or citation has been added from memory. Version 0.1.1 intentionally avoids unverified bibliographic metadata.
